@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://github.com/Anil-Developers/Anil-Developers/blob/main/CoverProfile.png)
+![I am GitHub Readme Generator's creator](https://github.com/Anil-Developerr/Anil-Developerr/blob/main/CoverProfile.png)
 
 <h1 align="center">Hello Developers!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>  
 
@@ -25,16 +25,16 @@ Hello, my name is Anil and I am a beginner in the world of JavaScript. I recentl
 </p>
 
 <p align="center">
-    <a href="https://github.com/Anil-Developers/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Anil Kunda's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Anil-Developers&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/Anil-Developerr/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Anil Kunda's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Anil-Developerr&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/Anil-Developers/github-readme-stats"><img alt="Anil Kunda's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Anil-Developers&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Anil-Developers/github-readme-stats"><img alt="Anil Kunda's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anil-Developers&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/Anil-Developerr/github-readme-stats"><img alt="Anil Kunda's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Anil-Developerr&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Anil-Developerr/github-readme-stats"><img alt="Anil Kunda's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anil-Developerr&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 <br/>
 <br/>
@@ -49,7 +49,7 @@ Hello, my name is Anil and I am a beginner in the world of JavaScript. I recentl
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Anil-Developers-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Anil-Developers">
+<a href="https://github.com/Anil-Developerr-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Anil-Developerr">
 </a>
-<a href="https://github.com/Anil-Developers?tab=followers"><img src="https://img.shields.io/github/followers/Anil-Developers?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Anil-Developerr?tab=followers"><img src="https://img.shields.io/github/followers/Anil-Developerr?label=Followers&style=social" alt="GitHub Badge"></a>
